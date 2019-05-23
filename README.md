@@ -18,9 +18,11 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
 
-## 今日面试题 （2019-04-26）
+## 今日面试题 （2019-05-23）
 
-#### [请说一下HashMap与HashTable的区别？](https://github.com/Moosphan/Android-Daily-Interview/issues/39)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/39)
+
+
+#### [分别讲讲final,static,synchronized可以修饰什么，以及修饰后的作用？](https://github.com/Moosphan/Android-Daily-Interview/issues/61)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/61)
 
 ## 如何贡献？
 
@@ -32,6 +34,24 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 52 期**：[**请用 Java 实现一个简单的单链表？**](https://github.com/Moosphan/Android-Daily-Interview/issues/59)
+- **第 51 期**：[**谈谈你对Android性能优化方面的了解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/58)
+- **第 50 期**：[**分别介绍下你所知道Android的几种存储方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/57)
+- **第 49 期**：[**什么是冒泡排序？如何优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/56)
+- **第 48 期**：[**说一下 synchronized 和 volatile 关键字的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/55)
+- **第 47 期**：[**谈谈ArrayMap和HashMap的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/54)
+- **第 46 期**：[**谈一谈startService和bindService的区别，生命周期以及使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/53)
+- **第 45 期**：[**“equals”与“==”、“hashCode”的区别和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/51)
+- **第 44 期**：[**请列出几种常见的工厂模式并说明它们的用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/50)
+- **第 43 期**：[**谈谈你对 Activity.runOnUiThread 的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/49)
+- **第 42 期**：[**谈一谈自定义LayoutManager的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/47)
+- **第 41 期**：[**谈一谈JAVA垃圾回收机制？**](https://github.com/Moosphan/Android-Daily-Interview/issues/46)
+- **第 40 期**：[**请简述 LinkedHashMap 的工作原理和使用方式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/45)
+- **第 39 期**：[**简述JVM中类的加载机制与加载过程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/44)
+- **第 38 期**：[**谈谈线程死锁，如何有效的避免线程死锁？**](https://github.com/Moosphan/Android-Daily-Interview/issues/43)
+- **第 37 期**：[**谈谈如何优化ListView？**](https://github.com/Moosphan/Android-Daily-Interview/issues/42)
+- **第 36 期**：[**谈谈自定义View的流程？**](https://github.com/Moosphan/Android-Daily-Interview/issues/41)
+- **第 35 期**：[**请说一下HashMap与HashTable的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/39)
 - **第 34 期**：[**针对RecyclerView你做了哪些优化？**](https://github.com/Moosphan/Android-Daily-Interview/issues/38)
 - **第 33 期**：[**HandlerThread 的使用场景和用法？**](https://github.com/Moosphan/Android-Daily-Interview/issues/37)
 - **第 32 期**：[**谈谈 ArrayList 和 LinkedList 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/36)
