@@ -16,11 +16,11 @@
 
 
 
-每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个关注吧！:smiley:
+每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-05-28）
+## 今日面试题 （2019-06-24）
 
-#### [谈一谈ArrayList的扩容？](https://github.com/Moosphan/Android-Daily-Interview/issues/64)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/64)
+### [Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?](https://github.com/Moosphan/Android-Daily-Interview/issues/82)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
 
 ## 如何贡献？
 
@@ -32,6 +32,24 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 73 期**：[**什么是代理模式？如何使用？Android源码中的代理模式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/81)
+- **第 72 期**：[**谈谈怎么给 Apk 瘦身？**](https://github.com/Moosphan/Android-Daily-Interview/issues/80)
+- **第 71 期**：[**简要说说 LruCache 的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/79)
+- **第 70 期**：[**说一说https,udp,socket区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/78)
+- **第 69 期**：[**谈谈如何重写equals()方法？为什么还要重写hashCode()？**](https://github.com/Moosphan/Android-Daily-Interview/issues/77)
+- **第 68 期**：[**Kotlin 中注解 @JvmOverloads 的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/76)
+- **第 67 期**：[**Java 中深拷贝与浅拷贝的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/75)
+- **第 66 期**：[**谈谈对于ConcurrentHashMap的理解？**](https://github.com/Moosphan/Android-Daily-Interview/issues/74)
+- **第 65 期**：[**简述下热修复的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/73)
+- **第 64 期**：[**说说项目中用到的设计模式和使用场景？**](https://github.com/Moosphan/Android-Daily-Interview/issues/72)
+- **第 63 期**：[**请简述 Http 与 Https 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/71)
+- **第 62 期**：[**Android 中的图片优化方案？**](https://github.com/Moosphan/Android-Daily-Interview/issues/70)
+- **第 61 期**：[**请谈谈 Thread 中 run() 与 start() 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/69)
+- **第 60 期**：[**谈谈 Error 和 Exception 的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/68)
+- **第 59 期**：[**请简述一下什么是 Kotlin？它有哪些特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/67)
+- **第 58 期**：[**Java 中使用多线程的方式有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/66)
+- **第 57 期**：[**什么是反射机制？反射机制的应用场景有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/65)
+- **第 56 期**：[**谈一谈ArrayList的扩容？**](https://github.com/Moosphan/Android-Daily-Interview/issues/64)
 - **第 55 期**：[**谈谈线程阻塞的原因？**](https://github.com/Moosphan/Android-Daily-Interview/issues/63)
 - **第 54 期**：[**什么是 RemoteViews？使用场景有哪些？**](https://github.com/Moosphan/Android-Daily-Interview/issues/62)
 - **第 53 期**：[**分别讲讲 final、static 和 synchronized 可以修饰什么，以及修饰后的作用？**](https://github.com/Moosphan/Android-Daily-Interview/issues/61)
