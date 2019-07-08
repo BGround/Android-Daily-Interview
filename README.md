@@ -18,9 +18,9 @@
 
 每工作日更新一道 Android 面试题，小聚成河，大聚成江，坚持下来的都是时代的铸就者，共勉之！如果想要和我们一起坚持下去，不妨点个**关注**吧！:smiley:
 
-## 今日面试题 （2019-06-24）
+## 今日面试题 （2019-07-08）
 
-### [Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?](https://github.com/Moosphan/Android-Daily-Interview/issues/82)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
+### [谈谈如何适配更多机型的？](https://github.com/Moosphan/Android-Daily-Interview/issues/92)👉[去答题](https://github.com/Moosphan/Android-Daily-Interview/issues/92)
 
 ## 如何贡献？
 
@@ -32,6 +32,16 @@
 4. 你也可以加入QQ群，参与本项目的维护或者讨论：**713463651**
 
 ## 历史汇总区
+- **第 83 期**：[**子线程能否更新UI？**](https://github.com/Moosphan/Android-Daily-Interview/issues/91)
+- **第 82 期**：[**Kotlin中List与MutableList的区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/90)
+- **第 81 期**：[**如何反转一个单链表？**](https://github.com/Moosphan/Android-Daily-Interview/issues/89)
+- **第 80 期**：[**Android Native Crash问题如何分析定位？**](https://github.com/Moosphan/Android-Daily-Interview/issues/88)
+- **第 79 期**：[**简述一下Android 8.0、9.0 分别增加了哪些新特性？**](https://github.com/Moosphan/Android-Daily-Interview/issues/87)
+- **第 78 期**：[**谈一谈单例模式，建造者模式，工厂模式的使用场景？如何合理选择？**](https://github.com/Moosphan/Android-Daily-Interview/issues/86)
+- **第 77 期**：[**谈谈你是如何优化App启动过程的？**](https://github.com/Moosphan/Android-Daily-Interview/issues/85)
+- **第 76 期**：[**JVM、Dalvik、ART三者的原理和区别？**](https://github.com/Moosphan/Android-Daily-Interview/issues/84)
+- **第 75 期**：[**谈谈ThreadLocal用法和原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/83)
+- **第 74 期**：[**Java 中 IO 流分为几种?BIO,NIO,AIO 有什么区别?**](https://github.com/Moosphan/Android-Daily-Interview/issues/82)
 - **第 73 期**：[**什么是代理模式？如何使用？Android源码中的代理模式？**](https://github.com/Moosphan/Android-Daily-Interview/issues/81)
 - **第 72 期**：[**谈谈怎么给 Apk 瘦身？**](https://github.com/Moosphan/Android-Daily-Interview/issues/80)
 - **第 71 期**：[**简要说说 LruCache 的原理？**](https://github.com/Moosphan/Android-Daily-Interview/issues/79)
